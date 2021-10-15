@@ -1,6 +1,8 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ### Eje de Arquitectura de Soluciones
 
+#########
+
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
 
 - **[Accede al acordeón Activo Actual - SUMMER CAMP](https://github.com/josejesusguzman/acordeon-az900-innovaccion/tree/summer-camp)**
